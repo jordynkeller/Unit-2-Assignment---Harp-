@@ -1,0 +1,14 @@
+{
+	"nuke": {
+		"title":"A Nuke",
+		"price":100000000.99
+	},
+	"cookie":{
+		"title":"Cookies",
+		"price":0.99
+	},
+	"beer":{
+		"title":"Beer",
+		"price":5.00
+	}
+}

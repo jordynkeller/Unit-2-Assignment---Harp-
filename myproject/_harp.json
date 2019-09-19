@@ -1,0 +1,18 @@
+{
+	"globals":{
+		"locations":[
+			{
+				"name":"Main Street Camden Grounds",
+				"address":"200 Kaliste Saloom, Lafayette, LA",
+				"hours":"Mon-Sat 6AM to 10PM",
+				"phone":"555-555-5001"
+			},
+			{
+				"name":"Central Street Camden Grounds",
+				"address":"500 Canal Street, New Orleans, LA",
+				"hours":"Mon-Sat 6AM to 11PM",
+				"phone":"555-555-5211"
+			}
+		]
+	}
+}
